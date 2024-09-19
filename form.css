@@ -1,0 +1,39 @@
+body{
+    
+    background-image: url(https://wallpaperaccess.com/full/1240335.jpg
+     );
+ }
+ 
+ 
+ p{
+     color:rgb(169, 196, 221);
+ }
+ #pri
+ {
+     color:rgb(197, 214, 228)
+ }
+ div{ 
+     height: 400px;
+     width: 400px;
+     margin-left: 500px;
+     background-color: rgba(24, 43, 129, 0.457);
+ }
+ form {
+     margin-left: 100px;
+ }
+ #e{
+     outline: none ;
+     border: none;
+     background-color: rgba(182, 188, 199, 0.421);
+     color: aliceblue;
+ }
+ #i
+ {
+     background-color: rgba(2, 17, 60, 0.402);
+     outline: none;
+     border: none;
+ }
+ #hii{
+     color: aliceblue;
+ 
+ }
